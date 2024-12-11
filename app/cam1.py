@@ -16,9 +16,9 @@ from components.makeCopy import *
 from components.saveImage import *
 
 
-stream_images_cam1 = "testing_images\cam2.jpg"
-images_cam1 = "images_cam1"
-temp_cam1 = "temp_cam1"
+stream_images_cam1 = ""
+images_cam1 = ""
+temp_cam1 = ""
 
 cls_model_path_cam1 = ""
 detect_model_path_cam1 = ""
